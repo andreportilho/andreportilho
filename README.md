@@ -1,10 +1,9 @@
 
 <p align="center">
  <img src="https://giffiles.alphacoders.com/214/214311.gif">
- </p>
+</p>
 
- <p align="center">
- <br>
+<p align="center">
  <br>
  :computer: Software Enginner :desktop_computer:
 </p>
